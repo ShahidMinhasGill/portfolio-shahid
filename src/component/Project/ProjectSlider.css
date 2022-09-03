@@ -1,0 +1,121 @@
+.slick-prev, .slick-next {
+    font-size: 0;
+    line-height: 0;
+    position: absolute;
+    /* top: 50%; */
+    display: block;
+    width: 20px;
+    height: 20px;
+    padding: 0;
+    transform: translate(0, -50%);
+    cursor: pointer;
+    color: rgb(14, 13, 13) !important;
+    border: none;
+    outline: none;
+    background: white !important;
+}
+.slick-prev:before, .slick-next:before {
+    font-family: 'slick';
+    font-size: 24px;
+    line-height: 1;
+    opacity: .75;
+    color: #292626;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+.slick-prev:hover , .slick-next:hover {
+    font-size: 0;
+    line-height: 0;
+    position: absolute;
+    top: 50%;
+    display: block;
+    width: 20px;
+    height: 20px;
+    padding: 0;
+    transform: translate(0, -50%);
+    cursor: pointer;
+    color: rgb(66, 66, 66);
+    border: none;
+    outline: none;
+    background: rgb(66, 66, 66);
+}
+.slick-dots {
+    position: absolute;
+    bottom: -25px;
+    display: block;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    text-align: center;
+}
+
+
+.wrapper {
+  text-align: center;
+  margin: 2.5% auto;
+  /* min-width: 800px; */
+  width:75%;
+}
+
+.wrapper h1 {
+  color: #0a1e57;
+  font-size: 5em;
+  font-weight: bold;
+  text-shadow: #fff 0 0 1px,
+  #eee 0 2px 3px,
+  #ddd 0 9px 3px,
+  #ccc 0 12px 1px;
+
+
+  transition: all 1s ease;
+}
+
+.wrapper h1:hover {
+  color: #1abc9c;
+  text-shadow:
+  #fff 0 0 1px,
+                #eee 0 4px 3px,
+               #ddd 0 9px 3px,
+               #ccc 0 12px 1px;
+}
+               /* rgba(0,0,0,0.2) 1px 14px 3px,
+               rgba(0,0,0,0.2) 2px 20px 10px,
+               rgba(0,0,100,0.3) 2px 15px 90px;
+} */
+/* p {
+    text-transform: uppercase;
+    letter-spacing: 0.5em;
+    display: inline-block;
+    border: 4px double rgba(255, 255, 255, 0.25);
+    border-width: 4px 0;
+    padding: 1.5em 0em;
+    position: absolute;
+    top: 18%;
+    left: 50%;
+    width: 40em;
+    margin: 0 0 0 -20em;
+  }
+  p span {
+    font: 700 4em/1 "Oswald", sans-serif;
+    letter-spacing: 0;
+    padding: 0.25em 0 0.325em;
+    display: block;
+    margin: 0 auto;
+    text-shadow: 0 0 80px rgba(10, 22, 133, 0.5);
+    background: url(https://i.ibb.co/RDTnNrT/animated-text-fill.png) repeat-y;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: aitf 80s linear infinite;
+    transform: translate3d(0, 0, 0);
+    backface-visibility: hidden;
+  }
+  @keyframes aitf {
+    0% {
+      background-position: 0% 50%;
+    }
+    100% {
+      background-position: 100% 50%;
+    }
+  } */
