@@ -8,7 +8,7 @@ function Home() {
                 <div className='col-md-7  col-11'>
                     <h3 className='home-h3'>My name Is Shahid Minhas</h3>
                     <p className='home-p'>
-                        I have 5+ years of experience in this field of Blockchain, web development and NodeJS. I work in the latest website technologies because of their advantages like the scalability of React and elegant design. My area of expertise are,
+                        I have 4+ years of experience in this field of Blockchain, web development and NodeJS. I work in the latest website technologies because of their advantages like the scalability of React and elegant design. My area of expertise are,
 
                     </p>
                     <p className='home-p'>

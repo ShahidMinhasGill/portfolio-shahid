@@ -26,7 +26,7 @@ function Footer() {
                     <div className='col-md-5 col-11 text-white text-start mt-4'>
                         <h2 className='footer-h2'>About</h2>
                         <p className='footer-pp'>
-                            I have 5+ years of experience in this field of Blockchain, web development and NodeJS. I work in the latest website technologies because of their advantages like the scalability of React and elegant design.                            </p>
+                            I have 4+ years of experience in this field of Blockchain, web development and NodeJS. I work in the latest website technologies because of their advantages like the scalability of React and elegant design.                            </p>
 
                     </div>
                     <div className='col-md-7 col-10 d-flex justify-content-end mt-4' >
