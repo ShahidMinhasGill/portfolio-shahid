@@ -8,7 +8,7 @@ function Navbars() {
             <Navbar collapseOnSelect expand="lg" variant="dark">
 
                 <Navbar.Brand href="#home" className='logobrand ps-md-4'>Shahid Minhas<br />
-                    <div className='arbitech-box'>Frontend Developer</div>
+                    <div className='arbitech-box'>Full Stack Developer</div>
                 </Navbar.Brand>
                 <Navbar.Toggle aria-controls="responsive-navbar-nav" />
                 <Navbar.Collapse id="responsive-navbar-nav">

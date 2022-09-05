@@ -210,7 +210,7 @@ function Sliders() {
               </div>
             </div>
             <div>
-              {/* <div className="card">
+              <div className="card">
                 <div className="box">
                   <div className="content">
                     <div className='d-flex flex-row justify-content-center align-items-center'><h3 className='pt-2'>Node Js</h3>&nbsp; <img className='exprience-image' src={node} width="50px" /></div>
@@ -225,10 +225,10 @@ function Sliders() {
                     </div>
                   </div>
                 </div>
-              </div> */}
+              </div>
             </div>
             <div>
-              {/* <div className="card">
+              <div className="card">
                 <div className="box">
                   <div className="content">
                     <div className='d-flex flex-row justify-content-center align-items-center'><h3 className='pt-2'>Solidity</h3>&nbsp; <img className='exprience-image' src={solidity} width="80px" /></div>
@@ -243,7 +243,7 @@ function Sliders() {
                     </div>
                   </div>
                 </div>
-              </div> */}
+              </div>
             </div>
           </Slider>
         </div>
